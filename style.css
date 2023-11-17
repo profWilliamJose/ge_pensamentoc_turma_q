@@ -21,3 +21,9 @@ body {
     font-size: 20px;
     color: gray;
 }
+
+#desafioimg {
+    width: 50%;
+    margin: 24px;
+    padding: 24px;
+}
