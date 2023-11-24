@@ -27,3 +27,7 @@ body {
     margin: 12px;
     padding: 12px;
 }
+
+.titulo-principal{
+    background-image: linear-gradient (#ff1b6b,#45caff);color: beige;
+}
