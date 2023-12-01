@@ -38,6 +38,9 @@ body {
     border-bottom: 4px solid #ff1b6b;
     font-size: 20px;
     color: azure;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .cabecalho-imagem{
