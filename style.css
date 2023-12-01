@@ -31,3 +31,20 @@ body {
 .titulo-principal{
     background-image: linear-gradient (#ff1b6b,#45caff);color: beige;
 }
+
+.cabecalho{
+    padding: 20px;
+    background-color: #45caff;
+    border-bottom: 4px solid #ff1b6b;
+    font-size: 20px;
+    color: azure;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+    height: 20%;
+}
+
+.cabecalho-titulo{
+    padding-left: 16px;
+}
